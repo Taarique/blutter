@@ -1,0 +1,17 @@
+.vscode/
+bin/
+build/
+tmp/
+out/
+dartsdk/
+external/
+packages/
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+# C/C++
+*.so
+*.dll
+*.lib
+venv/
